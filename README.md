@@ -1,6 +1,7 @@
 # LITA_Project
 ### Project Title: E Commerce Sales Analysis
 ### Project Overview
+---
 
 
 
@@ -23,6 +24,17 @@
   ### Data Cleaning and Preparation
 
   ### Exploratory Data Analysis
+
+
+  ### Data Analysis
+
+
+
+  ```SQL
+  SELECT* FROM TABLE
+  WHERE CONDITION = TRUE
+  ```
+  
 
 
   
