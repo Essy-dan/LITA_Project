@@ -1,5 +1,24 @@
 # LITA_Project
 ### Project Title: E Commerce Sales Analysis
+
+[Project Overview](#project.overview)
+
+Data Sources
+
+Tools Used
+
+Data Cleaning and Preparation
+
+Exploratory Data Analysis
+
+Data Analysis
+
+
+
+
+
+
+
 ### Project Overview
 ---
 
@@ -36,6 +55,11 @@
   ```
 
   ### Data Visualization
+ 
+![Screenshot (71)](https://github.com/user-attachments/assets/b87875db-1188-4fc3-8c9f-5bdcc9ac313b)
 
-
-  
+🥇
+🧮
+| Heading 1| heading 2| Heading 3
+|----------|----------|---------|
+| Table 1| Table 2 | Table 3|
