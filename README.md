@@ -34,7 +34,8 @@
   SELECT* FROM TABLE
   WHERE CONDITION = TRUE
   ```
-  
+
+  ### Data Visualization
 
 
   
