@@ -75,7 +75,6 @@ After that we can create Pivot Table by ticking the elements required for findin
 
   ### Data Visualization
  
-![Screenshot (71)](https://github.com/user-attachments/assets/b87875db-1188-4fc3-8c9f-5bdcc9ac313b)
 
 🥇
 🧮
