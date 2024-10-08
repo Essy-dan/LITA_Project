@@ -55,10 +55,10 @@ what are the products on peak sales?
 
   ### Data Cleaning and Preparation
 After Loading the Data into Excel we need to Clean the Data for Analysis. Often we have Dirty data which makes it more difficult to find the key insights. To avoid problems and get confused about the data. We need to Clean the data using various functions to avoid any miscalculation;
-    1. Check for any Duplicate Values in the Dataset.
-    2. Check and remove extra spaces.
-    3. Required letter case.
-    4. Check Blank or Null Values in the Dataset
+-1. Check for any Duplicate Values in the Dataset.
+     -2. Check and remove extra spaces.
+    -3. Required letter case.
+    -4. Check Blank or Null Values in the Dataset
 
 ### Data Analysis
 
