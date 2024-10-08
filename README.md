@@ -37,9 +37,6 @@ This project attempt to analyse dataset from Coca-Cola sales. Coca-cola, a globa
 This Dataset consists of 12 Columns which is Unclean and consist of Inconsistent Data. The Data includes information such as retailer, retailer ID, invoice date, state, city, and relevant data that will help us to analyze process.
 
 
-
-
-
 ### Tools Used
 - Microsoft Excel [Download](http://www.microsoft.com)
   1. For Data Cleaning
