@@ -70,10 +70,11 @@ For that we need to select all the values from the dataset and then insert a Piv
 
 After that we can create Pivot Table by ticking the elements required for finding key insights.
 
+![Screenshot (106)](https://github.com/user-attachments/assets/7a42a067-1a86-4770-a93d-d6e4822d366e)
 
+ ### Data Visualization
 
-
-  ### Data Visualization
+ 
  
 
 🥇
