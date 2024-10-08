@@ -64,14 +64,14 @@ After Loading the Data into Excel we need to Clean the Data for Analysis. Often 
 
   After Cleaning the Data the next step is to Analyze the Data and find key insights from the given Cleaned Dataset.
 
-For that we need to select all the values from the dataset and then insert a Pivot Table on a New Sheet. 
+For that we need to select all the values from the dataset and then insert a Pivot Table on a New Sheet. The pivot table opens in a new sheet once we click ok in the figure below.
+
+![Screenshot (104)](https://github.com/user-attachments/assets/90f299e9-3d0f-49b1-9c6b-be9fa96f879b)
+
+After that we can create Pivot Table by ticking the elements required for finding key insights.
 
 
 
-  ```SQL
-  SELECT* FROM TABLE
-  WHERE CONDITION = TRUE
-  ```
 
   ### Data Visualization
  
