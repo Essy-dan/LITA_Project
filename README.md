@@ -1,9 +1,11 @@
 # LITA_Project
-### Project Title: E Commerce Sales Analysis
+### Project Title: Sales Analysis
 
 [Project Overview](#project.overview)
 
 Data Sources
+
+Dataset
 
 [Tools Used](#tools.used)
 
@@ -22,15 +24,18 @@ Data Visualization
 
 
 ### Project Overview
-This data analysis project aims to generate insight,
-
-
+This project attempt to analyse dataset from Coca-Cola sales. Coca-cola, a global beverage giant, has amassed an extensive dataset detailing its sales across various regions, channels, and time periods. The objective of this case study is to leverage data analytics to derive actionable insights, enhance decision-making, and optimize sales strategies.
 
 
 
 
 
 ### Data Sources
+
+
+### Dataset
+This Dataset consists of 12 Columns which is Unclean and consist of Inconsistent Data. The Data includes information such as retailer, retailer ID, invoice date, state, city, and relevant data that will help us to analyze process.
+
 
 
 
@@ -77,6 +82,4 @@ For that we need to select all the values from the dataset and then insert a Piv
 
 🥇
 🧮
-| Heading 1| heading 2| Heading 3
-|----------|----------|---------|
-| Table 1| Table 2 | Table 3|
+
