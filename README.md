@@ -75,10 +75,15 @@ After that we can create Pivot Table by ticking the elements required for findin
  ### Data Visualization
  Finally after creating Pivot Table we can create our Visualization and confront our findings for the companies benefit. Visualization always tend to be simple to have a better Understanding and also saying a Story for the performance of the Company in recent Years.
 
-So lets get started with the first Visual of this dataset. We need to select all the values which are required for our visual. For Calculating Sales by each Beverage Brand we need to add “Beverage Brand” on Row Axis, then “Years(Invoice Date)” on Column Axis and “Sum of Total Sales” on Value to provide actual values
+So lets get started with the first Visual of this dataset. We need to select all the values which are required for our visual. For Calculating Sales by each Beverage Brand we need to add “Beverage Brand” on Row Axis, then “Years(Invoice Date)” on Column Axis and “Sum of Total Sales” on Value to provide actual values.
 
- 
- 
+![Screenshot (115)](https://github.com/user-attachments/assets/8564928d-f0f4-4560-a0f7-7f1567958426)
+
+As you can see on the above chart we can see the sales of different Beverage Brands under Coca-Cola have done way more well in 2023 then in 2022. The best selling beverage is Coca-Cola itself with almost 50% more than other Beverages in 2023 and better than 2022. The last is Fanta with 10% more sales then previous year. Check fig.5d for detailed and better understanding.
+
+Next, We are going to calculate the Sales by Retailer and check which retailer sold more cokes and which sold the least. This is the insight for the Sales by each Retailer.
+
+As we can see “FizzyCo” is the best selling Retailer for the year 2023 with almost 80% more selling rate then 2022. We can see “West Soda” did the best in 2022 and also good in 2023 but couldn’t beat “FizzyCo”. On the other hand “BevCo” is not far from “FizzyCo” in terms of Sales in 2023. The least we can see is “Walmart” we can only see 3% difference in the sales.
 
 🥇
 🧮
