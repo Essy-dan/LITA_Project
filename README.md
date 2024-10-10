@@ -73,7 +73,7 @@ After that we can create Pivot Table by ticking the elements required for findin
 ![Screenshot (106)](https://github.com/user-attachments/assets/7a42a067-1a86-4770-a93d-d6e4822d366e)
 
  ### Data Visualization
- Finally after creating Pivot Table we can create our Visualization and confront our findings for the companies benefit. Visualization always tend to be simple to have a better Understanding and also saying a Story for the performance of the Company in recent Years.
+ Finally after creating Pivot Table we can create our Visualization and  our findings for the company's benefit. Visualization always tend to be simple to have a better Understanding and also saying a Story for the performance of the Company in recent Years.
 
 So lets get started with the first Visual of this dataset. We need to select all the values which are required for our visual. For Calculating Sales by each Beverage Brand we need to add “Beverage Brand” on Row Axis, then “Years(Invoice Date)” on Column Axis and “Sum of Total Sales” on Value to provide actual values.
 
@@ -91,11 +91,11 @@ As we can see “FizzyCo” is the best selling Retailer for the year 2023 with 
 Profit Margins
 
 To calculate Profit we need Columns “Sum of Total Sales” and “Average of Operating Margin”
-![Screenshot (121)](https://github.com/user-attachments/assets/1d48641f-b87c-444f-bc7d-fd517eed727e)
 
-As we can see on the left we have “Years” followed by “Quarters” divided into 4 quarters each consisting of 3 months period. Next is “Sum of Total Sales” to know how much sales we made in each quarter. Also, last but not the least Calculated “Average of Operating Margin” to know how much resources we have used and whether we exceeded the budget for the same.
+                   ![Screenshot (121)](https://github.com/user-attachments/assets/1d48641f-b87c-444f-bc7d-fd517eed727e)
 
-![Screenshot (117)](https://github.com/user-attachments/assets/a35c188f-97cb-4ae5-bd0e-77d028dd5d1c)
+As we can see on the left we have “Years” followed by “Quarters” divided into 4 quarters each consisting of 3 months period. Next is “Sum of Total Sales” to know how much sales we made in each quarter. Also, last but not the least Calculated “Average of Operating Margin” to know how much resources we have used and whether we exceeded the budget for the same
+ ![Screenshot (117)](https://github.com/user-attachments/assets/a35c188f-97cb-4ae5-bd0e-77d028dd5d1c)
 
 Profit Margin by Quarter
 The above chart shows us how the profits are touching sky in 2023. As you can see Quarter 3 is the most profitable among all other quarters with 90% more profit than 2022. Followed by Quarter 4 which has a significant profit of 85% than 2022.
@@ -104,7 +104,28 @@ Dashboard
 
 Dashboard is one of the most important thing to build as a Data Analyst. It consists of all the visuals in a story telling format for stakeholders to have a clear idea about the company’s performance.
 
+![Screenshot (123)](https://github.com/user-attachments/assets/e69f7450-8644-4974-a945-693230b482db)
 
+KPI’s & Metrics
+
+Generated a revenue of 12,016,665 in the last 2 Years.
+
+Massive Record 24,788,610 Units sold within just 2 years.
+
+Calculated the average price costing per unit and its just $0.45.
+
+Conducted a detailed analysis through all the sales, units sold and margins of retailers the total profit generated is 4,722,497.
+
+Recommendations
+
+The marketing strategies applied in Quarter 3 of 2023 should be applied again to improve sales and profits.
+Fanta, Powerade and Sprite are the products which needs to be improved as this 3 products have got the least sales among all other beverages.
+Also on the other hand, Walmart, Amazon and West Soda have the least amount of sales. This is one of the important aspects to improve among other retailers.
+New York, California and Florida are the top performers, more resources should be provided towards marketing campaign.
+Limitations
+
+The dataset is still not complete need to get more data to find better findings.
+Dataset doesn’t have Gender and Age which is one of the important things as we need to see which products are consumed by Youth, Adults and Older people and also the Gender whether Males or Females consume more product.
 
 
 🥇
