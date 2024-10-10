@@ -80,10 +80,17 @@ So lets get started with the first Visual of this dataset. We need to select all
 ![Screenshot (115)](https://github.com/user-attachments/assets/8564928d-f0f4-4560-a0f7-7f1567958426)
 
 As you can see on the above chart we can see the sales of different Beverage Brands under Coca-Cola have done way more well in 2023 then in 2022. The best selling beverage is Coca-Cola itself with almost 50% more than other Beverages in 2023 and better than 2022. The last is Fanta with 10% more sales then previous year. Check fig.5d for detailed and better understanding.
+![Screenshot (116)](https://github.com/user-attachments/assets/3052c6ee-0cc0-4a77-ab1b-4ca58c4db744)
 
 Next, We are going to calculate the Sales by Retailer and check which retailer sold more cokes and which sold the least. This is the insight for the Sales by each Retailer.
+![Screenshot (119)](https://github.com/user-attachments/assets/fddb40a6-a6b8-4999-9ff7-0b07f97c4e78)
+
 
 As we can see “FizzyCo” is the best selling Retailer for the year 2023 with almost 80% more selling rate then 2022. We can see “West Soda” did the best in 2022 and also good in 2023 but couldn’t beat “FizzyCo”. On the other hand “BevCo” is not far from “FizzyCo” in terms of Sales in 2023. The least we can see is “Walmart” we can only see 3% difference in the sales.
+
+Profit Margins
+
+To calculate Profit we need Columns “Sum of Total Sales” and “Average of Operating Margin”
 
 🥇
 🧮
