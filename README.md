@@ -73,6 +73,9 @@ After that we can create Pivot Table by ticking the elements required for findin
 ![Screenshot (106)](https://github.com/user-attachments/assets/7a42a067-1a86-4770-a93d-d6e4822d366e)
 
  ### Data Visualization
+ Finally after creating Pivot Table we can create our Visualization and confront our findings for the companies benefit. Visualization always tend to be simple to have a better Understanding and also saying a Story for the performance of the Company in recent Years.
+
+So lets get started with the first Visual of this dataset. We need to select all the values which are required for our visual. For Calculating Sales by each Beverage Brand we need to add “Beverage Brand” on Row Axis, then “Years(Invoice Date)” on Column Axis and “Sum of Total Sales” on Value to provide actual values
 
  
  
