@@ -100,6 +100,12 @@ As we can see on the left we have “Years” followed by “Quarters” divided
 Profit Margin by Quarter
 The above chart shows us how the profits are touching sky in 2023. As you can see Quarter 3 is the most profitable among all other quarters with 90% more profit than 2022. Followed by Quarter 4 which has a significant profit of 85% than 2022.
 
+Dashboard
+
+Dashboard is one of the most important thing to build as a Data Analyst. It consists of all the visuals in a story telling format for stakeholders to have a clear idea about the company’s performance.
+
+
+
 
 🥇
 🧮
