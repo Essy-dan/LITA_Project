@@ -91,6 +91,15 @@ As we can see “FizzyCo” is the best selling Retailer for the year 2023 with 
 Profit Margins
 
 To calculate Profit we need Columns “Sum of Total Sales” and “Average of Operating Margin”
+![Screenshot (121)](https://github.com/user-attachments/assets/1d48641f-b87c-444f-bc7d-fd517eed727e)
+
+As we can see on the left we have “Years” followed by “Quarters” divided into 4 quarters each consisting of 3 months period. Next is “Sum of Total Sales” to know how much sales we made in each quarter. Also, last but not the least Calculated “Average of Operating Margin” to know how much resources we have used and whether we exceeded the budget for the same.
+
+![Screenshot (117)](https://github.com/user-attachments/assets/a35c188f-97cb-4ae5-bd0e-77d028dd5d1c)
+
+Profit Margin by Quarter
+The above chart shows us how the profits are touching sky in 2023. As you can see Quarter 3 is the most profitable among all other quarters with 90% more profit than 2022. Followed by Quarter 4 which has a significant profit of 85% than 2022.
+
 
 🥇
 🧮
