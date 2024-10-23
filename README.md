@@ -5,19 +5,19 @@
 
 [Data Sources](#data-sources)
 
-{Dataset}(#dataset)
+[Dataset](#dataset)
 
 [Key Elements](#key-elements)
 
-[Tools Used](#tools.used)
+[Tools Used](#tools-used)
 
 [Exploratory Data Analysis](#exploratory-data-analysis)
 
-[Data Cleaning and Preparation](#data-cleaning-and-analysis)
+[Data Cleaning and Preparation](#data-cleaning-and-preparation)
 
 [Data Analysis](#data-analysis)
 
-[Data Visualization](#data-visualization
+[Data Visualization](#data-visualization)
 
 ### Project Overview
 ---
