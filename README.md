@@ -1,7 +1,7 @@
 # LITA_Project
 ### Project Title: Sales Analysis
 
-[Project Overview](#project.overview)
+[Project Overview](#project-overview)
 
 Data Sources
 
